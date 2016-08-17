@@ -2,10 +2,10 @@
  * Created by ramon on 17/08/16.
  */
 public class Conta {
-    double saldo;
-    int numero;
-    String senha;
-    Cliente titular;
+   public double saldo;
+   public int numero;
+   public String senha;
+   public Cliente titular;
 
     boolean sacar(double v){
         this.saldo -= v;
