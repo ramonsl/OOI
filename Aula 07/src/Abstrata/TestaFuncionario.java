@@ -5,7 +5,14 @@ package Abstrata;
  */
 public class TestaFuncionario {
     public static void main(String[] args) {
-        Funcionario f = new Estagiario();
+
+        Estagiario f = new Estagiario();
+        f.relogioPonto();
         f.calcularAumento(2);
+        f.fezMerda();
+
+        Funcionario fnc = new Estagiario();
+
+
     }
 }

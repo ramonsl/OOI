@@ -193,6 +193,11 @@ public class Deque implements java.util.Deque{
     }
 
     @Override
+    public void forEach(Consumer action) {
+
+    }
+
+    @Override
     public Object[] toArray() {
         return new Object[0];
     }
@@ -203,14 +208,7 @@ public class Deque implements java.util.Deque{
     }
 
     @Override
-    public void forEach(Consumer action) {
-
-    }
-
-    @Override
     public Iterator descendingIterator() {
         return null;
     }
-
-
 }

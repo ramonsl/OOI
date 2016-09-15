@@ -3,14 +3,14 @@ package Heranca;
 /**
  * Criando uma classe nova "ebook"
  */
-public class Ebook {
+public class Ebook extends Livro{
 
-    private String nome;
-    private String descricao;
-    private double valor;
-    private String isbn;
-    private Autor autor;
     private String waterMark;
+
+    public Ebook(Autor autor) {
+        super(autor);
+    }
+
     public void setWaterMark(String waterMark) {
         this.waterMark = waterMark;
     }
@@ -19,7 +19,16 @@ public class Ebook {
     }
 
 
+    @Override
+    public boolean aplicaDescontoDe(double porcentagem) {
+        if (porcentagem > 0.15) {
+            return false;
+        } else {
+           // this.setValor(6);
 
-
+            this.setValor( this.getValor() - this.getValor() * porcentagem);
+            return true;
+        }
+    }
 }
 

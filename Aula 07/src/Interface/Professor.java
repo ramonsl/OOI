@@ -6,5 +6,4 @@ package Interface;
 public interface Professor {
 
    public abstract void acessoCapes();
-
 }
