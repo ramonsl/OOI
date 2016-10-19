@@ -97,7 +97,7 @@
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#209#210#0" expanded="true" />
-                <marker date="1476894994000" expanded="true" signature="684:710" ph="DROP TABLE I... " />
+                <marker date="1476902450000" expanded="true" signature="684:710" ph="DROP TABLE I... " />
               </folding>
             </state>
           </provider>
@@ -110,8 +110,8 @@
               <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1476893269000" expanded="true" signature="1075:1384" ph="CREATE TABLE... PESSOA" />
-                <marker date="1476893269000" expanded="true" signature="2741:2767" ph="DROP TABLE I... " />
+                <marker date="1476902450000" expanded="true" signature="1075:1384" ph="CREATE TABLE... PESSOA" />
+                <marker date="1476902450000" expanded="true" signature="2741:2767" ph="DROP TABLE I... " />
               </folding>
             </state>
           </provider>
@@ -156,10 +156,10 @@
               <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="25" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1476893269000" expanded="true" signature="582:693" ph="INSERT INTO ALUNO... " />
-                <marker date="1476893269000" expanded="true" signature="1446:1492" ph="UPDATE ALUNO... " />
-                <marker date="1476893269000" expanded="true" signature="2238:2266" ph="DELETE from " />
-                <marker date="1476893269000" expanded="true" signature="3032:3051" ph="SELECT * FRO... ALUNO" />
+                <marker date="1476902450000" expanded="true" signature="582:693" ph="INSERT INTO ALUNO... " />
+                <marker date="1476902450000" expanded="true" signature="1446:1492" ph="UPDATE ALUNO... " />
+                <marker date="1476902450000" expanded="true" signature="2238:2266" ph="DELETE from " />
+                <marker date="1476902450000" expanded="true" signature="3032:3051" ph="SELECT * FRO... ALUNO" />
               </folding>
             </state>
           </provider>
@@ -190,9 +190,9 @@
         <option value="$PROJECT_DIR$/src/Version1/DbUtils.java" />
         <option value="$PROJECT_DIR$/src/Version1/Aluno.java" />
         <option value="$MAVEN_REPOSITORY$/org/xerial/sqlite-jdbc/3.8.11.1/sqlite-jdbc-3.8.11.1.jar!/org/sqlite/jdbc3/JDBC3Connection.class" />
-        <option value="$PROJECT_DIR$/src/Version1/AlunoDao.java" />
         <option value="$PROJECT_DIR$/src/Version1/MainRefatorado.java" />
         <option value="$PROJECT_DIR$/src/Version1/DbHelper.java" />
+        <option value="$PROJECT_DIR$/src/Version1/AlunoDao.java" />
       </list>
     </option>
   </component>
@@ -780,12 +780,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1476845636341</updated>
-      <workItem from="1476845639696" duration="12272000" />
+      <workItem from="1476845639696" duration="12411000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12272000" />
+    <option name="totallyTimeSpent" value="12411000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -873,10 +873,10 @@
           <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="25" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1476893269000" expanded="true" signature="582:693" ph="INSERT INTO ALUNO... " />
-            <marker date="1476893269000" expanded="true" signature="1446:1492" ph="UPDATE ALUNO... " />
-            <marker date="1476893269000" expanded="true" signature="2238:2266" ph="DELETE from " />
-            <marker date="1476893269000" expanded="true" signature="3032:3051" ph="SELECT * FRO... ALUNO" />
+            <marker date="1476902450000" expanded="true" signature="582:693" ph="INSERT INTO ALUNO... " />
+            <marker date="1476902450000" expanded="true" signature="1446:1492" ph="UPDATE ALUNO... " />
+            <marker date="1476902450000" expanded="true" signature="2238:2266" ph="DELETE from " />
+            <marker date="1476902450000" expanded="true" signature="3032:3051" ph="SELECT * FRO... ALUNO" />
           </folding>
         </state>
       </provider>
@@ -951,7 +951,7 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#209#210#0" expanded="true" />
-            <marker date="1476894994000" expanded="true" signature="684:710" ph="DROP TABLE I... " />
+            <marker date="1476902450000" expanded="true" signature="684:710" ph="DROP TABLE I... " />
           </folding>
         </state>
       </provider>
@@ -962,8 +962,8 @@
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1476893269000" expanded="true" signature="1075:1384" ph="CREATE TABLE... PESSOA" />
-            <marker date="1476893269000" expanded="true" signature="2741:2767" ph="DROP TABLE I... " />
+            <marker date="1476902450000" expanded="true" signature="1075:1384" ph="CREATE TABLE... PESSOA" />
+            <marker date="1476902450000" expanded="true" signature="2741:2767" ph="DROP TABLE I... " />
           </folding>
         </state>
       </provider>
