@@ -1,0 +1,19 @@
+Utilizando os conceitos de herança e Interface, crie duas interfaces em java.
+A primeira ira possuir definição de métodos que
+implementam uma estrutura de dados do tipo Fila em um Vetor ou Arraylist de “Object”.
+A segunda, também usando um vetor ou arraylist, possuirá métodos que
+implementam métodos de uma Pilha.
+
+Apos a criação dessas interfaces, crie:
+
+1- Uma classe que implementa a interface Fila,
+escrevendo seus métodos e testando-os na classe TestaFila.
+Nessa fila vão ser adicionados objetos do tipo Livro.
+
+2-  Uma classe que implementa a interface Pilha,
+escrevendo seus métodos e testando-os na classe TestaPilha.
+ Nessa Pilha vão ser adicionados objetos do tipo Autor.
+
+3-Uma classe que seja um Deque,
+ou seja ira fazer uso das duas interfaces.
+Nesse Deque, vai ser adicionados objetos do Tipo Conta.

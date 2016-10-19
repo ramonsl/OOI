@@ -24,4 +24,7 @@ public class FuncionarioUlbra implements Aluno,Funcionario,Professor {
 
 
     }
+    public void teste(){
+
+    }
 }
